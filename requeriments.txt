@@ -1,0 +1,3 @@
+Install the Framework Django 4.2.6
+Install the extension and Framework of python
+Check that the above steps have been successfully completed in order to be able to schedule.
