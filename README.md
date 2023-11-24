@@ -4,7 +4,7 @@ Roll it Provides an interaction in a group of people through the simple game of 
 
 Contributions are welcome!
 
-To start off, this repo (along with others in the family). As such, after cloning dependencies _should_ be installed via `yarn`, not via npm, the latter will result in broken dependencies.
+To start off, this repo (along with others in the family). 
 
 To get started -
 
