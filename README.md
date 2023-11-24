@@ -10,8 +10,15 @@ To get started -
 
 1. Opening an Ubuntu temrinal
   - Create the followind directory Roll-It-App.
-  - Create the virtual environment with the following
+  - Create the virtual environment with the following command:
 ```
-command: python3 -m venv .venv
+python3 -m venv .venv
 ```
-  
+2. Clone the repository frm GitHub with the following command
+```
+git clone
+```
+3. Run of next command:
+  -Activate the virtual environment with the following commnad:
+   ```
+   source.venv/bin/activate
